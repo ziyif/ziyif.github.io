@@ -1,0 +1,23 @@
+.armanshair{
+    background-color: red;
+
+}
+
+#kosbiesface{
+    font-weight: bold;
+    margin:40px;
+    color: blue;
+}
+
+.panel{
+    background-color:red;
+    margin:10px;
+    padding:20px;
+}
+
+
+.panel:hover {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
